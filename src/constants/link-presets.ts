@@ -47,7 +47,7 @@ export const LinkPresets: Record<LinkPreset, NavBarLink> = {
 	[LinkPreset.Skills]: {
 		name: i18n(I18nKey.skills),
 		url: "/skills/",
-		icon: "material-symbols:psychology",
+		icon: "ix:projects",
 	},
 	[LinkPreset.Timeline]: {
 		name: i18n(I18nKey.timeline),
@@ -57,6 +57,6 @@ export const LinkPresets: Record<LinkPreset, NavBarLink> = {
 	[LinkPreset.AITools]: {
 		name: i18n(I18nKey.aiTools),
 		url: "/ai-tools/",
-		icon: "material-symbols:smart-toy",
+		icon: "bxl:deepseek",
 	},
 };

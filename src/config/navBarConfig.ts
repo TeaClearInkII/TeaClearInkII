@@ -141,22 +141,28 @@ export const navBarConfig: NavBarConfig = {
 			children: [
 				{
 					name: "GitHub",
-					url: "https://github.com/LyraVoid/Mizuki",
+					url: "https://github.com/TeaClearInkII",
 					external: true, // 外部链接，新标签页打开
 					icon: "fa7-brands:github",
 				},
 				{
 					name: "Bilibili",
-					url: "https://space.bilibili.com/701864046",
+					url: "https://space.bilibili.com/388428308",
 					external: true,
 					icon: "fa7-brands:bilibili",
 				},
 				{
-					name: "Gitee",
-					url: "https://gitee.com/matsuzakayuki/Mizuki",
+					name: "QQ群",
+					url: "https://qm.qq.com/q/NRMQ0B9kyG",
 					external: true,
-					icon: "mdi:git",
+					icon: "fa7-brands:qq",
 				},
+				// {
+				// 	name: "Gitee",
+				// 	url: "https://gitee.com/matsuzakayuki/Mizuki",
+				// 	external: true,
+				// 	icon: "mdi:git",
+				// },
 			],
 		},
 
@@ -218,12 +224,12 @@ export const navBarConfig: NavBarConfig = {
 				{
 					name: "Projects",
 					url: "/projects/",
-					icon: "material-symbols:work",
+					icon: "ix:projects",
 				},
 				{
 					name: "Skills",
 					url: "/skills/",
-					icon: "material-symbols:psychology",
+					icon: "material-symbols:book",
 				},
 				LinkPreset.AITools,
 				{

@@ -38,6 +38,21 @@ importers:
       '@fancyapps/ui':
         specifier: ^6.1.14
         version: 6.1.14
+      '@iconify-json/akar-icons':
+        specifier: ^1.2.7
+        version: 1.2.7
+      '@iconify-json/bxl':
+        specifier: ^1.2.4
+        version: 1.2.4
+      '@iconify-json/ix':
+        specifier: ^1.2.12
+        version: 1.2.12
+      '@iconify-json/thesvg-color':
+        specifier: ^1.2.5
+        version: 1.2.5
+      '@iconify-json/vscode-icons':
+        specifier: ^1.2.75
+        version: 1.2.75
       '@iconify/svelte':
         specifier: ^5.2.2
         version: 5.2.2(svelte@5.56.7)
@@ -1274,6 +1289,12 @@ packages:
   '@fancyapps/ui@6.1.14':
     resolution: {integrity: sha512-cBV73XXHrc0qMca+PJJ6qay3xweIgsoYse13rGRstgUs0xA5WAv1tgbSzPCIOOjiLs2S2jiVFJxyszgvgyfxMg==}
 
+  '@iconify-json/akar-icons@1.2.7':
+    resolution: {integrity: sha512-cw44dCnZgGhm6Tywxm0WALAnDB9AyGkDk7kiLMo2B/Ayt7duZu/uyrsqb55weWUN8Ge2sQAOl8MRtT6bFcLzPg==}
+
+  '@iconify-json/bxl@1.2.4':
+    resolution: {integrity: sha512-R6gVQSxB1+XeVClK7KdACnk1SfP8xiAu6LHuKZmp6Ro5zwMQbpe9vFBv30F6eHMDL8lZ7eXuac5SRJ9C8DKehQ==}
+
   '@iconify-json/fa7-brands@1.2.4':
     resolution: {integrity: sha512-60acXyxhQl1lddBH5YGzfQLkzlP9jqNcblFmgel7lJpgsVx/4QmrXAL90ARb8XhHX7dFMGRDmlqER9mq8aaz2g==}
 
@@ -1283,6 +1304,9 @@ packages:
   '@iconify-json/fa7-solid@1.2.5':
     resolution: {integrity: sha512-e9EOtXuvDhiv6gBjbuW1q4bSR2tU5HmsDxqbLElQt2w2dR1Byh2mXfPLdRgEVwEr50uQV5tKxE3YAL6LTa+1fA==}
 
+  '@iconify-json/ix@1.2.12':
+    resolution: {integrity: sha512-TteQ8jYbR/R86lS9U9gHCV8cRSa7YhTa8YoBkYPXeUOnmFGyRvhOPYGF68csUzHUKEfxdR55fSG8RgmhmgSqYA==}
+
   '@iconify-json/material-symbols@1.2.86':
     resolution: {integrity: sha512-/xdMEzGXFWQT+fvB4ppV7GvsiKnxRJdaXJgapuoZzcCkcnQB7BryzZtBq/2Qx2pcQu8eJfLDhesWBJ9RDeYJUA==}
 
@@ -1291,6 +1315,12 @@ packages:
 
   '@iconify-json/simple-icons@1.2.91':
     resolution: {integrity: sha512-plQJHZxzpkIXaeYjJF0Sc9nkzYF32EDX9olx7j1hcKYFaiTrQXbcngZmvzuV0pG6uZPU3ZuA/GIsgxSHOm6jrQ==}
+
+  '@iconify-json/thesvg-color@1.2.5':
+    resolution: {integrity: sha512-cPyTG3SOyGMi2Cyl2PiV0bLJRDvaQoZUQkfKHDGaFdXCpwYjs2F2SjsPpKGVBJXjaVT7V0iRiDy/fS0PTTUD4A==}
+
+  '@iconify-json/vscode-icons@1.2.75':
+    resolution: {integrity: sha512-9nPLpK9cd35iCEZYRSPOmhZ7S2IK4np8Vf/tXdswe5rKhV9Twt+oJ2y+tKfRlugJQavhTJBvejvCpj7Aukki5A==}
 
   '@iconify/svelte@5.2.2':
     resolution: {integrity: sha512-XMXxD3nzH7yB68C3K4sNwzrJ1TBscODR0ZqCeNf0KGuEMCTSuCo0jHNDZ0o0iRXTylO41NSz/DWam/4atLG1yw==}
@@ -2140,6 +2170,7 @@ packages:
   '@xmldom/xmldom@0.8.13':
     resolution: {integrity: sha512-KRYzxepc14G/CEpEGc3Yn+JKaAeT63smlDr+vjB8jRfgTBBI9wRj/nkQEO+ucV8p8I9bfKLWp37uHgFrbntPvw==}
     engines: {node: '>=10.0.0'}
+    deprecated: this version has critical issues, please update to the latest version
 
   acorn-jsx@5.3.2:
     resolution: {integrity: sha512-rq9s+JNhf0IChjtDXxllJ7g41oZk5SlXtp0LHwyA5cejwn7vKmKp4pPri6YEePv2PU65sAsegbXtIinmDFDXgQ==}
@@ -6830,6 +6861,14 @@ snapshots:
 
   '@fancyapps/ui@6.1.14': {}
 
+  '@iconify-json/akar-icons@1.2.7':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/bxl@1.2.4':
+    dependencies:
+      '@iconify/types': 2.0.0
+
   '@iconify-json/fa7-brands@1.2.4':
     dependencies:
       '@iconify/types': 2.0.0
@@ -6842,6 +6881,10 @@ snapshots:
     dependencies:
       '@iconify/types': 2.0.0
 
+  '@iconify-json/ix@1.2.12':
+    dependencies:
+      '@iconify/types': 2.0.0
+
   '@iconify-json/material-symbols@1.2.86':
     dependencies:
       '@iconify/types': 2.0.0
@@ -6851,6 +6894,14 @@ snapshots:
       '@iconify/types': 2.0.0
 
   '@iconify-json/simple-icons@1.2.91':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/thesvg-color@1.2.5':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/vscode-icons@1.2.75':
     dependencies:
       '@iconify/types': 2.0.0
 
