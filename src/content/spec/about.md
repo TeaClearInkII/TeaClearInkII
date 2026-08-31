@@ -32,4 +32,8 @@ QQ群：[219414173](https://qm.qq.com/q/NRMQ0B9kyG)
     </div>
 </div>
 
+## 赞助名单
+
+`柒七` `坏。。。` `未知u1`
+
 ::github{repo="TeaClearInkII/TeaClearInkII"}
