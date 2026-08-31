@@ -32,8 +32,8 @@ QQ群：[219414173](https://qm.qq.com/q/NRMQ0B9kyG)
     </div>
 </div>
 
-## 赞助名单
+## 赞助与致敬名单
 
-`柒七` `坏。。。` `未知u1`
+`柒七` `茶夜丶七哩哩` `大尾巴白糖` `曳空` `坏。。。` `未知u1`
 
 ::github{repo="TeaClearInkII/TeaClearInkII"}
