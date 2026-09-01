@@ -1,0 +1,1 @@
+import"./translation.B7VL_nwQ.js";import"./config.B6akd87a.js";import"./date-utils.B9S_5F9A.js";function i(r,e){return r.replace(/^\/|\/$/g,"").toLowerCase()===e.replace(/^\/|\/$/g,"").toLowerCase()}function t(...r){return r.join("/").replace(/\/+/g,"/")}function p(r){return t("","/",r)}export{p as n,i as t};
