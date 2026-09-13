@@ -83,13 +83,13 @@ export const fontConfig: FontConfig = withUserConfig("font", {
 		// 2. 中文 / 日文 CJK 字体（悠哉圆体 Yozai Medium，全量简繁中日韩 100% 覆盖）
 		// ---------------------------------------------------------------------
 		{
-			id: "yozai-cjk",
-			family: "Yozai Medium",
+			id: "zen-maru-cjk",
+			family: "Zen Maru Gothic",
 			role: "cjk",
 			source: "local",
 			variants: [
 				{
-					file: "src/assets/fonts/Yozai-Medium.ttf",
+					file: "src/assets/fonts/ZenMaruGothic-Medium.woff2",
 					weight: 500,
 					style: "normal",
 				},

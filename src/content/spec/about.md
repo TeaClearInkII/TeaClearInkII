@@ -1,26 +1,41 @@
-# About Shirone
+---
+title: 关于
+---
 
-Welcome to the demo site of **Shirone** (白音) — an expressive, anime-inspired blog theme built on the **Material 3 Expressive (M3E)** design system.
+# 茶清墨刂
 
-::github{repo="LyraVoid/Shirone"}
+茶茶正在试图进入各个领域，茶茶会的东西很多哦~
 
-## ✦ Design & Philosophy
+`策划` `前后端` `绘画` `Agent` `HTML` `Web` `Vue` `C/C++` `Python` `数据库` `Cosplay` `剪辑` `建模` `Unity` `VRChat` `微信小程序` `手机应用` `小说` `诗歌` `直播` `维修` `网络安全` `系统安全` `维护` `WPS` `Excel` `PPT` `Markdown` `优化` `测试` `解构分析` `电子` `ERP` `...`
 
-Shirone aims to combine the warmth of expressive anime aesthetics with the rigor of modern web engineering:
+诶吖说不完了~总之都会一点就是啦~
 
-- **Dynamic Chromatic Spell**: Full dynamic HCT palette generation responding seamlessly to light/dark modes and user preferences with zero layout shifts.
-- **Seamless Shell Navigation**: Persistent application shell driven by Swup for continuous music playback, smooth page transitions, and preserved state.
-- **Rich Story Grimoire**: Markdown and MDX authoring with KaTeX math, Mermaid diagrams, interactive admonitions, expressive code blocks, and adaptive image galleries.
-- **Zero Extra Burden**: Optional integrations (comments, analytics, music widgets) load dynamically on demand — zero DOM footprint and zero bundle overhead when disabled.
+---
 
-## ✦ Tech Stack
+## 联系方式
 
-- **Framework**: [Astro 7](https://astro.build/) & [Svelte 5](https://svelte.dev/) (Runes-driven islands)
-- **Styling**: [Tailwind CSS 4](https://tailwindcss.com/) & [Stylus](https://stylus-lang.com/)
-- **Design Standard**: [Material 3 Expressive](https://m3.material.io/)
-- **Typography**: Outfit & Yozai (悠哉圆体) with automated build-time subsetting
-- **Search Engine**: [Pagefind](https://pagefind.app/) offline full-text search
+QQ：3271235381
+微信：TeaClearInkII
+邮箱：3271235381@qq.com
+QQ群：[219414173](https://qm.qq.com/q/NRMQ0B9kyG)
 
-## ✦ Credits
+---
 
-- **Font**: [Yozai Font (悠哉字体)](https://github.com/lxgw/yozai-font) by [lxgw](https://github.com/lxgw)
+## 赞助
+
+<div style="display: flex; gap: 40px; align-items: center; flex-wrap: wrap; justify-content: center;">
+    <div style="text-align: center;">
+        <p style="margin-bottom: 8px; font-weight: bold;">微信收款码：</p>
+        <img src="/assets/images/茶清墨刂微信收款码.png" alt="微信收款码" style="max-width: auto; max-height: 300px; display: block; border-radius: 8px;">
+    </div>
+    <div style="text-align: center;">
+        <p style="margin-bottom: 8px; font-weight: bold;">支付宝收款码：</p>
+        <img src="/assets/images/茶清墨刂支付宝收款码.jpg" alt="支付宝收款码" style="max-width: auto; max-height: 300px; display: block; border-radius: 8px;">
+    </div>
+</div>
+
+## 赞助与致敬名单
+
+`柒七` `茶夜丶七哩哩` `大尾巴白糖` `曳空` `坏。。。` `未知u1` `Mily`
+
+::github{repo="TeaClearInkII/TeaClearInkII"}
