@@ -209,6 +209,11 @@ export default defineConfig({
 		processor: siteMarkdownProcessor,
 	},
 	vite: {
+		server: {
+			watch: {
+				ignored: ["**/DumpStack.log.tmp"],
+			},
+		},
 		resolve: {
 			alias: [
 				{
