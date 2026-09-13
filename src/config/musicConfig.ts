@@ -37,14 +37,14 @@ import { withUserConfig } from "../utils/config-overlay.ts";
  *      首屏直接显示第一首曲目；默认 "none"（不预取，交互后才请求）。
  *    - 示例：
  *      provider: "meting",
- *      meting: { server: "netease", type: "playlist", id: "14164869977" }
+ *      meting: { server: "netease", type: "playlist", id: "2671407103" }
  *
  * 4. "mixed"（混合增强模式，推荐）：
  *    - 数据源：本地曲目（src/data/music.ts）+ Meting API 远端歌单自动合并
  *    - 特点：首屏立即可播本地音乐，后台无感拉取远端歌单并在就绪后无缝扩容；
  *            若遇断网或云端接口故障，自动静默降级为本地曲目播放，绝不报红破版。
  *    - 示例：
- *      provider: "mixed",
+ *      provider: "meting",
  *      meting: { server: "netease", type: "playlist", id: "14164869977" }
  * ─────────────────────────────────────────────────────────────────────────────
  */

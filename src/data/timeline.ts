@@ -6,82 +6,66 @@ import type { TimelineItem } from "@/types/timelineConfig";
 
 export const timelineData: TimelineItem[] = [
 	{
-		title: "Shirone Theme M3E Major Architecture Upgrade",
-		date: "2026.08",
-		category: "milestone",
-		subtitle: "Open Source Project",
-		description:
-			"Refactored the entire blog theme into a Material 3 Expressive atomic component system with token-driven styling, complete keyboard navigation, and full accessibility compliance.",
-		highlights: [
-			"Implemented dynamic HCT palette calculation and state layer tokens",
-			"Added multi-page capabilities: Timeline, Skills, Projects, and Protected Albums",
-			"Zero-error strict type-checking and automated visual regression locks",
-		],
-		tags: ["Astro", "Svelte 5", "M3E", "Tailwind 4"],
-		links: [
-			{
-				label: "GitHub Repository",
-				url: "https://github.com/LyraVoid/Shirone",
-				icon: "fa6-brands:github",
-			},
-		],
-		icon: "material-symbols:rocket-launch-rounded",
-		featured: true,
-	},
-	{
-		title: "Senior Frontend Engineer",
-		date: "2025.03 – Present",
-		category: "career",
-		subtitle: "Technology Lab",
-		location: "Tokyo, Japan",
-		description:
-			"Leading frontend architecture, web performance optimization, and interactive design system development for modern web platforms.",
-		highlights: [
-			"Spearheaded design system unification across web products",
-			"Reduced core bundle load times by 40% using modern SSR and asset pipelines",
-		],
-		tags: ["TypeScript", "Architecture", "Performance", "Design System"],
-		icon: "material-symbols:work-rounded",
-		featured: true,
-	},
-	{
-		title: "Full-Stack Web Application Launch",
-		date: "2024.11",
+		title: "拥抱AI编程",
+		date: "2025.09",
 		category: "project",
-		subtitle: "Independent Creation",
-		description:
-			"Designed and built an end-to-end creative workflow application with real-time collaboration and cloud synchronization.",
-		highlights: [
-			"Designed intuitive fluid canvas interface with low-latency interaction",
-			"Built serverless backend APIs with edge caching and relational persistence",
-		],
-		tags: ["Svelte", "Node.js", "PostgreSQL", "Cloudflare"],
-		icon: "material-symbols:deployed-code-outline-rounded",
+		tags: ["策划", "vibe coding", "JAVA", "C/C++", "Python", "Vue", "HTML", "CSS", "JS", "MySQL"],
 	},
 	{
-		title: "Computer Science & Engineering Degree",
-		date: "2020.09 – 2024.06",
+		title: "VRChat改模学习",
+		date: "2026.06",
 		category: "education",
-		subtitle: "University of Technology",
-		location: "Hangzhou, China",
-		description:
-			"Focused on computer systems, software engineering, human-computer interaction, and distributed architectures.",
-		highlights: [
-			"Graduated with honors and outstanding graduate thesis award",
-			"Led university open source student community and hackathons",
-		],
-		tags: ["Computer Science", "Algorithms", "Software Engineering"],
-		icon: "material-symbols:school-rounded",
+		tags: ["Unity"],
 	},
 	{
-		title: "Started Personal Blog & Tech Notes",
-		date: "2022.04",
-		category: "life",
-		subtitle: "First Step into Tech Writing",
-		description:
-			"Published my first article online and began documenting frontend exploration, creative coding, and personal reflections.",
-		tags: ["Blogging", "Writing", "Open Web"],
-		icon: "material-symbols:edit-note-rounded",
+		title: "我的世界整合包创作",
+		date: "2025.04",
+		category: "project",
+		description: "不满意市面整合包，尝试自己整合",
+	},
+	{
+		title: "奖学金",
+		date: "2024.11",
+		category: "milestone",
+		subtitle: "广州新华学院",
+		location: "广东东莞",
+		description: "二等奖",
+	},
+	{
+		title: "大学学习",
+		date: "2022.09 – 2025.07",
+		category: "education",
+		subtitle: "广州新华学院/华南师范大学",
+		location: "广东东莞",
+		description: "在校学习编程知识",
+		tags: ["JAVA", "C/C++", "Python", "Vue", "HTML", "CSS", "JS", "MySQL"],
+	},
+	{
+		title: "小说创作",
+		date: "2024.05",
+		category: "project",
+		description: "尝试创作OC小说",
+	},
+	{
+		title: "初次编程",
+		date: "2019.05 – 2020.08",
+		category: "project",
+		description: "使用手机AIDE开发了两款小软件：学习资源导航助手、宠物伤害计算工具",
+	},
+	{
+		title: "游戏经历",
+		date: "2016.07",
+		category: "education",
+		description: "累计游玩3000+款玩法类型各异的手游/端游",
+		icon: "material-symbols:sports-esports-outline-rounded",
+	},
+	{
+		title: "绘画经历",
+		date: "2013.07",
+		category: "education",
+		description: "自学绘画",
+		tags: ["绘画"],
+		icon: "material-symbols:palette-outline-rounded",
 	},
 ];
 
