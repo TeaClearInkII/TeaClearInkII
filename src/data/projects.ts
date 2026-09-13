@@ -67,7 +67,7 @@ export const projectsData: ProjectItem[] = [
 		category: "desktop",
 		phase: "building",
 		technologies: ["Python", "QT"],
-		icon: "material-symbols:folder-compare-rounded",
+		icon: "material-symbols:folder-code-outline-rounded",
 		repository: "https://github.com/TeaClearInkII/Folder-Comparator-GUI",
 		year: "2026.01",
 	},
