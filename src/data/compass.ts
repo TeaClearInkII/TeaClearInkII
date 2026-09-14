@@ -47,5 +47,29 @@ export const compassData: CompassShelf[] = [
 				image: "https://cdn.dancf.com/fe-assets/20260604/22e5e923d7f010990285340f6cb79f18ddf551de700b489ca316fe0f392fcfd9.svg",
 			},
 		],
+	{
+		key: "ai-tools",
+		name: "AI 工具",
+		entries: [
+			{
+				label: "DeepSeek",
+				href: "https://chat.deepseek.com",
+				note: "用于写作与推理的对话式 AI 助手",
+				icon: "material-symbols:chat-bubble-outline-rounded",
+			},
+			{
+				label: "OpenCode",
+				href: "https://opencode.ai",
+				note: "开源的 Agent 工具",
+				icon: "material-symbols:terminal-rounded",
+			},
+			{
+				label: "DeepSeek Harness",
+				href: "https://www.deepseek.com/harness",
+				note: "开源的 Agent 工具",
+				icon: "material-symbols:robot-2-outline-rounded",
+			},
+		],
+	},
 	},
 ];
