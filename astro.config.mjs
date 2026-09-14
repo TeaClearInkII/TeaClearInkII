@@ -211,7 +211,12 @@ export default defineConfig({
 	vite: {
 		server: {
 			watch: {
-				ignored: ["**/DumpStack.log.tmp"],
+				ignored: [
+				"**/DumpStack.log.tmp",
+				"D:/DumpStack.log.tmp",
+				/DumpStack\.log\.tmp$/,
+			],
+			usePolling: true,
 			},
 		},
 		resolve: {
