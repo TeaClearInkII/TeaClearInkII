@@ -26,6 +26,9 @@ const iconPrefixes = new Set([
 	"fa6-solid",
 	"material-symbols",
 	"simple-icons",
+	"thesvg-color",
+	"vscode-icons",
+	"bxl",
 ]);
 
 function collectSourceFiles(directory) {

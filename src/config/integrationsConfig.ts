@@ -142,6 +142,9 @@ export const iconInclude: NonNullable<
 	"fa6-brands": ["*"],
 	"fa6-regular": ["*"],
 	"fa6-solid": ["*"],
+	"thesvg-color": ["*"],
+	"vscode-icons": ["*"],
+	"bxl": ["*"],
 };
 
 /**

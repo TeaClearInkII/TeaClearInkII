@@ -192,9 +192,18 @@ importers:
       '@biomejs/biome':
         specifier: 2.5.12
         version: 2.5.12
+      '@iconify-json/bxl':
+        specifier: ^1.2.4
+        version: 1.2.4
       '@iconify-json/simple-icons':
         specifier: ^1.2.95
         version: 1.2.95
+      '@iconify-json/thesvg-color':
+        specifier: ^1.2.9
+        version: 1.2.9
+      '@iconify-json/vscode-icons':
+        specifier: ^1.2.77
+        version: 1.2.77
       '@lhci/cli':
         specifier: 0.15.1
         version: 0.15.1
@@ -1296,6 +1305,9 @@ packages:
   '@formatjs/intl-localematcher@0.6.2':
     resolution: {integrity: sha512-XOMO2Hupl0wdd172Y06h6kLpBz6Dv+J4okPLl4LPtzbr8f66WbIoy4ev98EBuZ6ZK4h5ydTN6XneT4QVpD7cdA==}
 
+  '@iconify-json/bxl@1.2.4':
+    resolution: {integrity: sha512-R6gVQSxB1+XeVClK7KdACnk1SfP8xiAu6LHuKZmp6Ro5zwMQbpe9vFBv30F6eHMDL8lZ7eXuac5SRJ9C8DKehQ==}
+
   '@iconify-json/fa6-brands@1.2.6':
     resolution: {integrity: sha512-twL3X4KWcxAhbc1vz/mIDsVr+CAItk1/EIfxKUVQtpv6O4eydk5KNYqTZWdvJNHGInUgd6vKg21aWfVgb5DXEg==}
 
@@ -1310,6 +1322,12 @@ packages:
 
   '@iconify-json/simple-icons@1.2.95':
     resolution: {integrity: sha512-QwWgcoiL+eNCD38QM0OStFVFoOgDvzeHrcwMAvATvcFl0VvMEtED92qp3K3juS0H6RZ9BGUlgq9mODPwNWkjJg==}
+
+  '@iconify-json/thesvg-color@1.2.9':
+    resolution: {integrity: sha512-qk2WOVxejUpD4yn4SW25ilP+aSc+MZjjwnd06ObJ83utZXY7VUV7xQNYFhmJcNvziJkDvJFR6OT9RSJJ3qh99A==}
+
+  '@iconify-json/vscode-icons@1.2.77':
+    resolution: {integrity: sha512-yl8e3KlFfLLhiL9CH6YwX6syePeSLLwH2dL4cKGYC27SgdNHL3TRpheAyOjO3fw2+Ovp3tOSF5oj3AhSv4MQ8Q==}
 
   '@iconify/svelte@5.2.2':
     resolution: {integrity: sha512-XMXxD3nzH7yB68C3K4sNwzrJ1TBscODR0ZqCeNf0KGuEMCTSuCo0jHNDZ0o0iRXTylO41NSz/DWam/4atLG1yw==}
@@ -7908,6 +7926,10 @@ snapshots:
     dependencies:
       tslib: 2.8.1
 
+  '@iconify-json/bxl@1.2.4':
+    dependencies:
+      '@iconify/types': 2.0.0
+
   '@iconify-json/fa6-brands@1.2.6':
     dependencies:
       '@iconify/types': 2.0.0
@@ -7925,6 +7947,14 @@ snapshots:
       '@iconify/types': 2.0.0
 
   '@iconify-json/simple-icons@1.2.95':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/thesvg-color@1.2.9':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/vscode-icons@1.2.77':
     dependencies:
       '@iconify/types': 2.0.0
 
