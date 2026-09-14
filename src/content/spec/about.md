@@ -23,14 +23,14 @@ QQ群：[219414173](https://qm.qq.com/q/NRMQ0B9kyG)
 
 ## 赞助
 
-<div style="display: flex; gap: 40px; align-items: center; flex-wrap: wrap; justify-content: center;">
+<div style="display: flex; gap: 32px; align-items: flex-start; flex-wrap: wrap; justify-content: center;">
     <div style="text-align: center;">
         <p style="margin-bottom: 8px; font-weight: bold;">微信收款码：</p>
-        <img src="/assets/images/茶清墨刂微信收款码.png" alt="微信收款码" style="max-width: auto; max-height: 300px; display: block; border-radius: 8px;">
+        <img src="/assets/images/茶清墨刂微信收款码.png" alt="微信收款码" style="width: 240px; height: auto; border-radius: 8px;">
     </div>
     <div style="text-align: center;">
         <p style="margin-bottom: 8px; font-weight: bold;">支付宝收款码：</p>
-        <img src="/assets/images/茶清墨刂支付宝收款码.jpg" alt="支付宝收款码" style="max-width: auto; max-height: 300px; display: block; border-radius: 8px;">
+        <img src="/assets/images/茶清墨刂支付宝收款码.jpg" alt="支付宝收款码" style="width: 240px; height: auto; border-radius: 8px;">
     </div>
 </div>
 
