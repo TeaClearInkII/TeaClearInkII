@@ -21,4 +21,9 @@ export const profileConfig: ProfileConfig = withUserConfig("profile", {
 			url: "https://github.com/TeaClearInkII",
 		},
 	],
+	qqGroup: {
+		label: "QQ群",
+		url: "https://qm.qq.com/q/NRMQ0B9kyG",
+		icon: "fa6-brands:qq",
+	},
 });

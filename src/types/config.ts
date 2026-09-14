@@ -151,6 +151,12 @@ export type ProfileConfig = {
 		url: string;
 		icon: string;
 	}[];
+	/** QQ 群等社群入口按钮（可选，展示在资料卡链接下方） */
+	qqGroup?: {
+		label: string;
+		url: string;
+		icon?: string;
+	};
 };
 
 export type LicenseConfig = {

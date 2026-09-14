@@ -36,4 +36,16 @@ export interface CompassShelf {
 }
 
 export const compassData: CompassShelf[] = [
+	{
+		key: "sites",
+		name: "常用站点",
+		entries: [
+			{
+				label: "花瓣",
+				href: "https://huaban.com",
+				note: "图像采集网站",
+				image: "https://cdn.dancf.com/fe-assets/20260604/22e5e923d7f010990285340f6cb79f18ddf551de700b489ca316fe0f392fcfd9.svg",
+			},
+		],
+	},
 ];

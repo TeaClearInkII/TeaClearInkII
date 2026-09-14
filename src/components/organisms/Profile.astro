@@ -95,7 +95,14 @@ if (typeof avatarAsset !== "string") {
                 {config.links[0].name}
             </Button>}
         </div>
-        <UmamiStats variant="profile" />
+        {config.qqGroup && (
+	<Button href={config.qqGroup.url} target="_blank" ariaLabel={config.qqGroup.label}
+	        variant="filled" size="small" class="!w-full !mt-2 !font-bold">
+		<Icon name={config.qqGroup.icon ?? "fa6-brands:qq"} class="text-[1.25rem]"></Icon>
+		{config.qqGroup.label}
+	</Button>
+)}
+<UmamiStats variant="profile" />
     </div>
 	</Card>
 </div>

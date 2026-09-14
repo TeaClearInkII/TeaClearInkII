@@ -26,14 +26,6 @@ export const friendsData: FriendItem[] = [
 	},
 	{
 		id: 2,
-		title: "花瓣",
-		imgurl: "https://cdn.dancf.com/fe-assets/20260604/22e5e923d7f010990285340f6cb79f18ddf551de700b489ca316fe0f392fcfd9.svg",
-		desc: "图像采集网站",
-		siteurl: "https://huaban.com",
-		tags: ["绘画参考", "设计参考"],
-	},
-	{
-		id: 3,
 		title: "Mizuki",
 		imgurl: "https://mizuki.mysqil.com/assets/home/home.webp",
 		desc: "一个开源博客模板演示网站",
@@ -41,12 +33,20 @@ export const friendsData: FriendItem[] = [
 		tags: ["博客模板"],
 	},
 	{
-		id: 4,
+		id: 3,
 		title: "时终是区",
 		imgurl: "https://github.cdn.zero251.xyz/Zero-wyc/Image/main/General/%E8%BE%9B.webp",
 		desc: "时终是区的个人博客",
 		siteurl: "https://blog.zero251.xyz/",
 		tags: ["朋友", "个人博客"],
+	},
+	{
+		id: 4,
+		title: "Shirone",
+		imgurl: "https://avatars.githubusercontent.com/u/225602409?v=4&s=640",
+		desc: "一个开源的动漫风博客主题（M3E）",
+		siteurl: "https://shirone.mysqil.com/",
+		tags: ["博客主题"],
 	},
 ];
 

@@ -116,10 +116,24 @@ export const LinkPresets: Record<string, NavBarLink> = {
 	},
 	GitHub: {
 		name: "GitHub",
-		url: "https://github.com/LyraVoid/Shirone",
+		url: "https://github.com/TeaClearInkII",
 		icon: "fa6-brands:github",
 		external: true,
 		pageKey: "github",
+	},
+	Bilibili: {
+		name: "哔哩哔哩",
+		url: "https://space.bilibili.com/388428308",
+		icon: "fa6-brands:bilibili",
+		external: true,
+		pageKey: "bilibili",
+	},
+	QQGroup: {
+		name: "QQ群",
+		url: "https://qm.qq.com/q/NRMQ0B9kyG",
+		icon: "fa6-brands:qq",
+		external: true,
+		pageKey: "qq-group",
 	},
 };
 
@@ -146,6 +160,8 @@ const defaultNavBarConfig: NavBarConfig = {
 				// LinkPresets.Tags,
 				LinkPresets.About,
 				LinkPresets.GitHub,
+				LinkPresets.Bilibili,
+				LinkPresets.QQGroup,
 			],
 		},
 	],
