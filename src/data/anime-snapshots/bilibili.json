@@ -1,0 +1,1372 @@
+{
+  "schemaVersion": 1,
+  "provider": "bilibili",
+  "fetchedAt": "2026-09-14T00:41:49.197Z",
+  "accountRef": "388428308",
+  "items": [
+    {
+      "title": "伍六七之玄武国篇",
+      "status": "completed",
+      "rating": 9.8,
+      "year": "2021",
+      "genres": [],
+      "cover": "/assets/anime/covers/bili_36594.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss36594",
+      "description": "为了保护小鸡岛居民和这里平静的生活，伍六七和他的伙伴大保和小飞开启了去往玄武国的冒险旅程，去寻找身世的真相和解救小岛的办法，等待他们的又将是更多的未知与奇遇。...",
+      "studio": "中国大陆",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28232253",
+        "seasonId": "36594"
+      }
+    },
+    {
+      "title": "伍六七",
+      "status": "completed",
+      "rating": 9.8,
+      "year": "2018",
+      "genres": [],
+      "cover": "/assets/anime/covers/bili_6360.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss6360",
+      "description": "在某个小岛上，有一个可以伪装成任何东西的廉价刺客，名叫伍六七。平时看上去是个理发师，其实背地里却做着刺客生意。热爱理发事业，喜欢给人剪头发，善用剪刀——剪刀也是他的刺杀武器。由于初入刺客行当，行情十分...",
+      "studio": "中国大陆",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "6360",
+        "seasonId": "6360"
+      }
+    },
+    {
+      "title": "那年那兔那些事儿 第一季",
+      "status": "completed",
+      "rating": 9.7,
+      "year": "2015",
+      "genres": [
+        "漫画改",
+        "萌系",
+        "历史"
+      ],
+      "cover": "/assets/anime/covers/bili_1689.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss1689",
+      "description": "本片讲述了一群兔子是怎么从种花家一穷二白的时候，通过自身的努力与奋斗，蹬了鹰酱一脸血，并且养殖出了自己的大蘑菇，发展成为蓝星最强五流氓之一的故事。本片故事纯属虚构，如有雷同，纯属巧合。本片漫画更新频繁...",
+      "studio": "中国大陆",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "1689",
+        "seasonId": "1689"
+      }
+    },
+    {
+      "title": "玉子爱情故事",
+      "status": "completed",
+      "rating": 9.9,
+      "year": "2014",
+      "genres": [
+        "少女",
+        "校园",
+        "恋爱"
+      ],
+      "cover": "/assets/anime/covers/bili_4155.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss4155?theme=movie",
+      "description": "【本片翻译由雪飘工作室提供】时已入春，已经进入高中三年级的北白川玉子仍然总是想着打糕的事情。春天傍晚的放学路上，玉子好友四人组谈论着关于将来出路的事情。大家虽然对此感到不安，但似乎对将来的事情都有好好...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "4155",
+        "seasonId": "4155"
+      }
+    },
+    {
+      "title": "玉子市场",
+      "status": "completed",
+      "rating": 9.8,
+      "year": "2013",
+      "genres": [
+        "少女",
+        "日常",
+        "治愈",
+        "萌系"
+      ],
+      "cover": "/assets/anime/covers/bili_4262.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss4262",
+      "description": "座落某个小镇的兔子商店街上，有一间日式饼店，住着一位十分喜欢饼类小吃的高中一年级女生——玉子。除了偶尔在店铺协助父亲，以及钻研新口味的饼类小吃外，她亦有跟学校的朋友参与羽毛球部活动。而饼店对面是同...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "116772",
+        "seasonId": "4262"
+      }
+    },
+    {
+      "title": "黑岩射手 / BLACK★ROCK SHOOTER",
+      "status": "completed",
+      "rating": 9.6,
+      "year": "2012",
+      "genres": [
+        "战斗",
+        "原创",
+        "穿越"
+      ],
+      "cover": "/assets/anime/covers/bili_1665.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss1665",
+      "description": "在近现实世界的日本，有一位看似平凡的少女黑衣麻陶，开始了她新一年的中学生活。这时，一位名为小鸟游优美的同班同学吸引了她的注意。对方起初不欲作深层交往，后来却因为彩虹小鸟的话题，而被麻陶见到了小鸟游受委...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "1665",
+        "seasonId": "1665"
+      }
+    },
+    {
+      "title": "罗小黑战记",
+      "status": "completed",
+      "rating": 9.9,
+      "year": "2011",
+      "genres": [
+        "原创",
+        "热血",
+        "奇幻",
+        "萌系",
+        "治愈"
+      ],
+      "cover": "/assets/anime/covers/bili_1733.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss1733",
+      "description": "猫妖小黑盗取天明珠被谛听发现，被打回原形重伤而逃，在流落街头之时被罗小白带回了家，起名罗小黑。 有一天小黑突然变成了人形，告诉小白自己要暂时离开去完成师父交给自己的任务。却在离开之后因为师傅交给自己的...",
+      "studio": "中国大陆",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "1733",
+        "seasonId": "1733"
+      }
+    },
+    {
+      "title": "BLACK★ROCK SHOOTER OVA",
+      "status": "completed",
+      "rating": 9.5,
+      "year": "2010",
+      "genres": [
+        "热血",
+        "奇幻",
+        "战斗"
+      ],
+      "cover": "/assets/anime/covers/bili_1666.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss1666",
+      "description": "《BLACK★ROCK SHOOTER》是由huke绘制插图、音乐创作社团「supercell」所制作，在niconico上受到许多人喜爱的热门音乐作品。它的动画由知名动画监督山本宽、及其带领的新动画...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "1666",
+        "seasonId": "1666"
+      }
+    },
+    {
+      "title": "天官赐福 第二季",
+      "status": "watching",
+      "rating": 0,
+      "year": "2030",
+      "genres": [],
+      "cover": "/assets/anime/covers/bili_39689.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss39689",
+      "description": "半月关之事告一段落，谢怜受神武大帝君吾的传唤回天庭述职，却意外得知有神官在鬼市附近施法求救。而鬼市如今的主人“血雨探花”花城，正是七日前突然辞别的红衣少年三郎。此事疑点重重，谢怜自愿请命，与风师青玄、...",
+      "studio": "中国大陆",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28235383",
+        "seasonId": "39689"
+      }
+    },
+    {
+      "title": "放开那个女巫",
+      "status": "watching",
+      "rating": 9.9,
+      "year": "2026",
+      "genres": [
+        "小说改",
+        "热血",
+        "奇幻",
+        "战斗"
+      ],
+      "cover": "/assets/anime/covers/bili_229649.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss229649",
+      "description": "现代人程岩意外猝死，魂穿越到了欧洲中世纪风格的异世界大陆，成为灰堡王国的四王子罗兰。这位纨绔王子，在一场处死女巫的刑场上救下了女巫安娜，并震惊得发现这个中世纪风格的异世界，魔法真的存在！当身为女巫的安...",
+      "studio": "中国大陆",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "393778114",
+        "seasonId": "229649"
+      }
+    },
+    {
+      "title": "胶囊计划 第四季",
+      "status": "watching",
+      "rating": 9.4,
+      "year": "2026",
+      "genres": [
+        "原创",
+        "热血",
+        "科幻"
+      ],
+      "cover": "/assets/anime/covers/bili_118963.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss118963",
+      "description": "《胶囊计划》是由具有成熟动画制作经验的专业团队创作的国产动画短片集，以“极致情绪+独立命题”为创作命题，不限制创作形式，与团队一同探索动画的可能性，旨在共同创作出风格各异各具特色的原创短片，携手中国动...",
+      "studio": "中国大陆",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "281753563",
+        "seasonId": "118963"
+      }
+    },
+    {
+      "title": "打了300年的史莱姆，不知不觉就练到了满级 第二季",
+      "status": "watching",
+      "rating": 9.5,
+      "year": "2025",
+      "genres": [
+        "小说改",
+        "穿越",
+        "奇幻",
+        "日常"
+      ],
+      "cover": "/assets/anime/covers/bili_91498.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss91498",
+      "description": "亚梓莎在女神大人的安排下，成为了不老不死的魔女，并被转生到了一个充满奇幻色彩的异世界。  由于前世因为过劳而死亡，为此她深刻地反省，许愿可以过着悠悠哉哉的生活。为了维持生计，她每天固定打倒史莱姆，持续...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "25550196",
+        "seasonId": "91498"
+      }
+    },
+    {
+      "title": "灵笼 第二季",
+      "status": "watching",
+      "rating": 9.8,
+      "year": "2025",
+      "genres": [
+        "原创",
+        "热血",
+        "奇幻",
+        "战斗",
+        "科幻"
+      ],
+      "cover": "/assets/anime/covers/bili_46585.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss46585",
+      "description": "数百年前，欲望催生了几乎灭绝人类的玛娜生态。人类瞬间沦为猎物，文明毁灭殆尽，末日中猜忌和恐惧拉开了人与人之间的距离。灾难当前，人们逐渐意识到：情感——这个被灯塔视为禁忌的存在，如今成为突破一切障碍、构...",
+      "studio": "中国大陆",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "21123554",
+        "seasonId": "46585"
+      }
+    },
+    {
+      "title": "那年那兔那些事儿 第七季",
+      "status": "watching",
+      "rating": 9.3,
+      "year": "2025",
+      "genres": [
+        "漫画改",
+        "萌系",
+        "泡面",
+        "历史"
+      ],
+      "cover": "/assets/anime/covers/bili_80930.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss80930",
+      "description": "本季（第七季）以志愿军兔退伍老兵和后代的视角，讲述种花家制造业从无到有，从落后到追赶，最终形成完备的自有体系的故事。...",
+      "studio": "中国大陆",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "24491383",
+        "seasonId": "80930"
+      }
+    },
+    {
+      "title": "间谍过家家 第三季",
+      "status": "watching",
+      "rating": 0,
+      "year": "2025",
+      "genres": [
+        "漫画改",
+        "搞笑",
+        "日常"
+      ],
+      "cover": "/assets/anime/covers/bili_112827.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss112827",
+      "description": "每个人都有不可告人的一面。 这是一个世界各国均暗地里进行激烈情报战的时代。奥斯塔尼亚（Ostania）与维斯达利斯（Westalis）的冷战状态已经持续数十年。 是维斯达利斯情报局奥斯塔尼...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "27709925",
+        "seasonId": "112827"
+      }
+    },
+    {
+      "title": "伍六七之记忆碎片",
+      "status": "watching",
+      "rating": 7.8,
+      "year": "2024",
+      "genres": [],
+      "cover": "/assets/anime/covers/bili_48315.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss48315",
+      "description": "为了找回珍视的伙伴，伍六七重回玄武国，面对那些被遗忘的记忆碎片。尘封的真相带来痛苦与愤怒，但现在的他不再是孤身一人。拥有力量，究竟是为了什么？这一次，伍六七要为自己的人生做出新的选择…...",
+      "studio": "中国大陆",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "22580805",
+        "seasonId": "48315"
+      }
+    },
+    {
+      "title": "关于我转生变成史莱姆这档事 第三季",
+      "status": "watching",
+      "rating": 7.7,
+      "year": "2024",
+      "genres": [
+        "小说改",
+        "奇幻",
+        "战斗"
+      ],
+      "cover": "/assets/anime/covers/bili_48852.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss48852",
+      "description": "利姆鲁击败克莱曼，正式成为了魔王。而且魔王盛宴后，他的领地扩大到了鸠拉大森林全域。 利姆鲁预想到各种族的代表会纷纷前来觐见，便决定借机举办“开国庆典”，以魔王身份正式亮相，并同时为特恩佩斯特吸引新居民...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "23154901",
+        "seasonId": "48852"
+      }
+    },
+    {
+      "title": "暂停！智序重组",
+      "status": "watching",
+      "rating": 9.6,
+      "year": "2024",
+      "genres": [
+        "原创",
+        "奇幻",
+        "战斗",
+        "搞笑"
+      ],
+      "cover": "/assets/anime/covers/bili_45980.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss45980",
+      "description": "在一片未知大陆上，有一座名为9号卫星城的城市，城中螺丝厂的螺丝扶正工芮梨在日复一日的枯燥工作中，逐步察觉到了这座城市的不真实。在神秘角色“Anull”的帮助下，芮梨获得了“换装”的超能力，并化身怪盗“...",
+      "studio": "中国大陆",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "21084056",
+        "seasonId": "45980"
+      }
+    },
+    {
+      "title": "胶囊计划 第三季",
+      "status": "watching",
+      "rating": 9,
+      "year": "2024",
+      "genres": [
+        "原创",
+        "热血",
+        "科幻",
+        "武侠"
+      ],
+      "cover": "/assets/anime/covers/bili_48806.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss48806",
+      "description": "《胶囊计划》是由具有成熟动画制作经验的专业团队创作的国产动画短片集，以“极致情绪+独立命题”为创作命题，不限制创作形式，与团队一同探索动画的可能性，旨在共同创作出风格各异各具特色的动画短片，携手中国动...",
+      "studio": "中国大陆",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "23042627",
+        "seasonId": "48806"
+      }
+    },
+    {
+      "title": "鬼灭之刃 柱训练篇",
+      "status": "watching",
+      "rating": 9.7,
+      "year": "2024",
+      "genres": [
+        "热血",
+        "奇幻",
+        "漫画改"
+      ],
+      "cover": "/assets/anime/covers/bili_47836.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss47836",
+      "description": "以集英社《JUMP COMICS》1卷~23卷累积发行量突破1亿5000万册的吾峠呼世晴的漫画作品为原作。动画由ufotable制作。 本作的开端是，家人被鬼杀害的少年灶门炭治郎，为了让变成鬼的妹妹...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "21226899",
+        "seasonId": "47836"
+      }
+    },
+    {
+      "title": "伍六七之暗影宿命",
+      "status": "watching",
+      "rating": 9.2,
+      "year": "2023",
+      "genres": [],
+      "cover": "/assets/anime/covers/bili_44176.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss44176",
+      "description": "随着伍六七回到玄武国寻找他的身世，亦引起了七大暗影刺客的追捕。然而每一位暗影刺客都带着不同的目的和不同的过去，青凤的阴谋也在此浮出了水面。而此时等待着小鸡岛上的人民，又将是另一个危机，伍六七将如何面对...",
+      "studio": "中国大陆",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28412536",
+        "seasonId": "44176"
+      }
+    },
+    {
+      "title": "咒术回战 第二季",
+      "status": "watching",
+      "rating": 9.4,
+      "year": "2023",
+      "genres": [
+        "热血",
+        "奇幻",
+        "战斗",
+        "漫画改"
+      ],
+      "cover": "/assets/anime/covers/bili_45574.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss45574",
+      "description": "这是无敌的两人再也回不去的青春。 2018年6月，虎杖悠仁被两面宿傩附身。 2017年12月，乙骨忧太解除祈本里香的诅咒。 再往前追溯到2006年春——五条悟和夏油杰还在高专时期。 成为咒术师大显身...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "20310848",
+        "seasonId": "45574"
+      }
+    },
+    {
+      "title": "胶囊计划 第二季",
+      "status": "watching",
+      "rating": 9.8,
+      "year": "2023",
+      "genres": [],
+      "cover": "/assets/anime/covers/bili_46555.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss46555",
+      "description": "《胶囊计划》是哔哩哔哩国创动画人扶持计划之一。由来自各行业、具有成熟动画制作经验的专业团队，不限形式、风格完成独立短片创作。这是中国原创动画的一次探索，每部作品都是中国动画的一个创意脑洞。 第二季利用...",
+      "studio": "中国大陆",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "21120401",
+        "seasonId": "46555"
+      }
+    },
+    {
+      "title": "间谍过家家 第二季",
+      "status": "watching",
+      "rating": 9.7,
+      "year": "2023",
+      "genres": [
+        "日常",
+        "搞笑",
+        "漫画改"
+      ],
+      "cover": "/assets/anime/covers/bili_46085.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss46085",
+      "description": "每个人都有不可告人的一面。 这是一个世界各国均暗地里进行激烈情报战的时代。奥斯塔尼亚（Ostania）与维斯达利斯（Westalis）的冷战状态已经持续数十年。 是维斯达利斯情报局奥斯塔尼...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "21086686",
+        "seasonId": "46085"
+      }
+    },
+    {
+      "title": "鬼灭之刃 刀匠村篇",
+      "status": "watching",
+      "rating": 9.2,
+      "year": "2023",
+      "genres": [
+        "热血",
+        "奇幻",
+        "战斗",
+        "漫画改"
+      ],
+      "cover": "/assets/anime/covers/bili_44860.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss44860",
+      "description": "故事来到了新的地方—— 炭治郎的目的地是「刀匠村」。 与鬼杀队的最强剑士，霞柱·时透无一郎与恋柱·甘露寺蜜璃再会，而鬼也悄然逼近。 炭治郎一行人新的战斗即将开始。...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "20140389",
+        "seasonId": "44860"
+      }
+    },
+    {
+      "title": "小魔头暴露啦！",
+      "status": "watching",
+      "rating": 8.7,
+      "year": "2022",
+      "genres": [],
+      "cover": "/assets/anime/covers/bili_39711.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss39711",
+      "description": "为了在江湖上活下去，魔教教主之子于仁杰奉命混入只招收名门正派弟子的“正道书院”，目标是获得能够洗白魔教身份的”好人证“。此行凶险异常，一旦暴露魔教身份必将被无数正道侠客当场击杀。可在报到当天于仁杰就尴...",
+      "studio": "中国大陆",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28235405",
+        "seasonId": "39711"
+      }
+    },
+    {
+      "title": "擅长捉弄的高木同学 剧场版",
+      "status": "watching",
+      "rating": 9.9,
+      "year": "2022",
+      "genres": [
+        "治愈",
+        "搞笑",
+        "校园",
+        "恋爱",
+        "漫画改"
+      ],
+      "cover": "/assets/anime/covers/bili_44219.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss44219",
+      "description": "在一所初中里，有一个叫做西片的男生，时常遭到同桌女生高木同学的捉弄。 每次他设法捉弄回去，都会被高木同学看透。 季节变换，两个人都升上了三年级。周围的同学们开始思考将来，掺杂着不安与期待的同时，高木同...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28435376",
+        "seasonId": "44219"
+      }
+    },
+    {
+      "title": "擅长捉弄的高木同学 第三季",
+      "status": "watching",
+      "rating": 9.9,
+      "year": "2022",
+      "genres": [
+        "校园",
+        "恋爱",
+        "漫画改"
+      ],
+      "cover": "/assets/anime/covers/bili_40156.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss40156",
+      "description": "“捉弄”缩短了二人的距离， 2022年想要守候的初恋就在这里。 在一所初中里，有一个叫做西片的男生，他时不时就会遭到同桌女生高木的捉弄。 西片每次思考对策，想要捉弄回高木，都会被高木看透。 于是西...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28235860",
+        "seasonId": "40156"
+      }
+    },
+    {
+      "title": "暂停！让我查攻略",
+      "status": "watching",
+      "rating": 9.4,
+      "year": "2022",
+      "genres": [
+        "原创",
+        "奇幻",
+        "搞笑",
+        "少女"
+      ],
+      "cover": "/assets/anime/covers/bili_39697.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss39697",
+      "description": "因为召唤过程中的失误，30岁社畜刘依诺意外被召唤到游戏世界中。为了尽快回到现实，刘依诺开始协助18岁的“勇者”田恩雅拯救世界。本来就是高玩的依诺凭借自己出色的认知，在异世界里如鱼得水。恩雅也从一个任性...",
+      "studio": "中国大陆",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28235391",
+        "seasonId": "39697"
+      }
+    },
+    {
+      "title": "胶囊计划",
+      "status": "watching",
+      "rating": 9.3,
+      "year": "2022",
+      "genres": [],
+      "cover": "/assets/anime/covers/bili_39709.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss39709",
+      "description": "“胶囊计划”邀请来自各行业、具有成熟动画制作经验的专业团队，以“极致情绪”为主题，从“刺、欲、喜、幻、麻、泪、燃”7种情绪胶囊中任选两种，结合其使用效果，以不同的形式、风格完成5-15分钟的短片创作，...",
+      "studio": "中国大陆",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28235403",
+        "seasonId": "39709"
+      }
+    },
+    {
+      "title": "间谍过家家",
+      "status": "watching",
+      "rating": 9.7,
+      "year": "2022",
+      "genres": [
+        "日常",
+        "搞笑",
+        "战斗",
+        "漫画改"
+      ],
+      "cover": "/assets/anime/covers/bili_41410.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss41410",
+      "description": "每个人都有不可告人的一面。 这是一个世界各国均暗地里进行激烈情报战的时代。奥斯塔尼亚（Ostania）与维斯达利斯（Westalis）的冷战状态已经持续数十年。 是维斯达利斯情报局奥斯塔尼...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28237119",
+        "seasonId": "41410"
+      }
+    },
+    {
+      "title": "Re：从零开始的异世界生活 第二季 后半",
+      "status": "watching",
+      "rating": 9.8,
+      "year": "2021",
+      "genres": [
+        "奇幻",
+        "小说改",
+        "穿越",
+        "冒险"
+      ],
+      "cover": "/assets/anime/covers/bili_36429.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss36429",
+      "description": "我一定会拯救你。 在打倒了魔女教大罪司教「怠惰」担当——培提其乌斯·罗曼尼康帝之后，菜月昴和爱蜜莉雅又得以重新开始。 克服了艰难的诀别，两人终于和解，然而这只是新一轮风波的序幕。 超乎想象的绝境危机，...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28232073",
+        "seasonId": "36429"
+      }
+    },
+    {
+      "title": "关于我转生变成史莱姆这档事 第二季",
+      "status": "watching",
+      "rating": 8.9,
+      "year": "2021",
+      "genres": [
+        "小说改",
+        "奇幻",
+        "战斗",
+        "魔法",
+        "架空"
+      ],
+      "cover": "/assets/anime/covers/bili_36170.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss36170",
+      "description": "主人公利姆鲁与仰慕他而聚集的众多魔物们所建立的国家「鸠拉·特恩佩斯特国」，经由与邻国的协议及交易，让「人类与魔物共同漫步的国家」这一温柔的理想逐步成形。 利姆鲁作为曾是人类的史莱姆当然拥有「对人类的...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28231812",
+        "seasonId": "36170"
+      }
+    },
+    {
+      "title": "关于我转生变成史莱姆这档事 转生史莱姆日记",
+      "status": "watching",
+      "rating": 9.7,
+      "year": "2021",
+      "genres": [
+        "日常",
+        "奇幻",
+        "搞笑",
+        "漫画改",
+        "穿越",
+        "冒险"
+      ],
+      "cover": "/assets/anime/covers/bili_38221.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss38221",
+      "description": "美妙的史莱姆人生！ 累计突破50万部的大人气外传四格漫画『转生史莱姆日记』，作为转生史莱姆的外传系列首次TV动画化！ 「因为拿到了贵重的纸，我把至今为止发生的事情以日记形式记录了下来。开头的话就这么...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28233903",
+        "seasonId": "38221"
+      }
+    },
+    {
+      "title": "剧场版 咒术回战 0",
+      "status": "watching",
+      "rating": 8.8,
+      "year": "2021",
+      "genres": [
+        "奇幻",
+        "战斗",
+        "漫画改"
+      ],
+      "cover": "/assets/anime/covers/bili_48001.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss48001?theme=movie",
+      "description": "《咒术回战》的原点，一个爱与诅咒的故事。 由芥见下下创作，集英社《周刊少年JUMP》连载的漫画作品《咒术回战》。于2018年3月开始连载，讲述咒术师以咒术祓除人们负面感情中诞生的诅咒的战斗故事，其单行...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "22006270",
+        "seasonId": "48001"
+      }
+    },
+    {
+      "title": "奇蛋物语 / WONDER EGG PRIORITY",
+      "status": "watching",
+      "rating": 9.7,
+      "year": "2021",
+      "genres": [
+        "奇幻",
+        "原创"
+      ],
+      "cover": "/assets/anime/covers/bili_36209.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss36209",
+      "description": "14岁少女·大户爱在深夜散步的途中， 随着神秘声音的指引，获得了一枚「蛋」。 「如果想要改变世界的话」 「那么就在现在做出选择」 「请相信自己——」 「打破这枚蛋——」 而在打破「蛋」之后，等待着...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28231851",
+        "seasonId": "36209"
+      }
+    },
+    {
+      "title": "小林家的龙女仆 第二季",
+      "status": "watching",
+      "rating": 9.6,
+      "year": "2021",
+      "genres": [
+        "日常",
+        "搞笑",
+        "萌系",
+        "漫画改"
+      ],
+      "cover": "/assets/anime/covers/bili_38921.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss38921",
+      "description": "那位不可思议的龙女仆再度登场！ 因为各种奇妙的原因而作为小林家的女仆而工作中的龙·托尔。 偶尔（胡说，是经常）给亲爱的小林添麻烦，总算是融入了人类社会，成为了一个完美的（骗人，也就还行）女仆。 同样是...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28234613",
+        "seasonId": "38921"
+      }
+    },
+    {
+      "title": "打了300年的史莱姆，不知不觉就练到了满级",
+      "status": "watching",
+      "rating": 9.5,
+      "year": "2021",
+      "genres": [
+        "奇幻",
+        "小说改",
+        "穿越"
+      ],
+      "cover": "/assets/anime/covers/bili_38229.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss38229",
+      "description": "普通的OL·相泽梓因过量工作而过劳死，在异世界转生成为不老不死的魔女亚梓莎。出于对前世的反省，她开始在边境的高原度过悠闲的慢生活。 打倒史莱姆赚点小钱，像个魔女一样制作魔药提供给山麓的村子。其他就没什...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28233911",
+        "seasonId": "38229"
+      }
+    },
+    {
+      "title": "猫之茗",
+      "status": "watching",
+      "rating": 9.8,
+      "year": "2021",
+      "genres": [],
+      "cover": "/assets/anime/covers/bili_28758.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss28758",
+      "description": "【特别迷你剧犬之茗第2-4集大会员抢先1集，第5集起大会员专享】夏至城主一心为城为民，人民安居乐业，GDP蒸蒸日上，家庭幸福美满。然而一场大雨却成为了灾难的开始，人祸接连不断、反派（普洱）强盗（祁红）...",
+      "studio": "中国大陆",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28223054",
+        "seasonId": "28758"
+      }
+    },
+    {
+      "title": "秘宝之国",
+      "status": "watching",
+      "rating": 8.4,
+      "year": "2021",
+      "genres": [],
+      "cover": "/assets/anime/covers/bili_28759.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss28759",
+      "description": "在异世界日复一日修复着化作人形的文物少女们，虽然被当做工具人时常感到身心疲惫，但依然孜孜不倦地调查秘灵世界的真相，这是关于意外获得了修复师能力的打工人钟子信与编钟少女崇音对抗遗忘病毒的解谜探险故事。...",
+      "studio": "中国大陆",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28223055",
+        "seasonId": "28759"
+      }
+    },
+    {
+      "title": "转生成蜘蛛又怎样！",
+      "status": "watching",
+      "rating": 7.9,
+      "year": "2021",
+      "genres": [
+        "奇幻",
+        "战斗",
+        "小说改",
+        "励志",
+        "穿越",
+        "冒险"
+      ],
+      "cover": "/assets/anime/covers/bili_36167.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss36167",
+      "description": "曾经是一名女高中生的“我”，突然转生变成了幻想世界中的蜘蛛魔物。 而且，出生地点还是各种凶恶魔物所盘踞的大迷宫。 “我”以人类的智慧和非同寻常的积极心态为武器，使用蜘蛛的丝网以及陷阱打倒比自己等级高得...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28231809",
+        "seasonId": "36167"
+      }
+    },
+    {
+      "title": "鬼灭之刃 无限列车篇",
+      "status": "watching",
+      "rating": 9.8,
+      "year": "2021",
+      "genres": [
+        "热血",
+        "奇幻",
+        "战斗",
+        "漫画改"
+      ],
+      "cover": "/assets/anime/covers/bili_39444.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss39444",
+      "description": "结束了在蝶屋中的修行的炭治郎一行人，前往了下一个任务地点——无限列车。 此处据说在短时间内就有四十人以上的乘客下落不明。 炭治郎携带着祢豆子，与善逸、伊之助等人，同鬼杀队最强剑士之一的炎柱炼狱杏寿郎汇...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28235136",
+        "seasonId": "39444"
+      }
+    },
+    {
+      "title": "鬼灭之刃 游郭篇",
+      "status": "watching",
+      "rating": 9.7,
+      "year": "2021",
+      "genres": [
+        "热血",
+        "奇幻",
+        "战斗",
+        "漫画改"
+      ],
+      "cover": "/assets/anime/covers/bili_39433.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss39433",
+      "description": "结束了无限列车的任务，炭治郎前往下一个任务地点。 与鬼杀队最强之一的音柱·宇髄天元一同前往鬼所栖身的游郭之中。 新的战斗即将开幕。...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28235125",
+        "seasonId": "39433"
+      }
+    },
+    {
+      "title": "Re：从零开始的异世界生活 新编集版",
+      "status": "watching",
+      "rating": 9.6,
+      "year": "2020",
+      "genres": [
+        "奇幻",
+        "小说改",
+        "魔法",
+        "穿越",
+        "架空"
+      ],
+      "cover": "/assets/anime/covers/bili_29590.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss29590",
+      "description": "在从便利商店回家的路上，突然被异世界召唤的少年菜月昴。在无法依靠任何东西的异世界，无力的少年手唯一的力量……那是“死去然后重新开始”的力量。为了守护最重要的人们，为了取回确实存在着又无可替代的时间，少...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28224394",
+        "seasonId": "29590"
+      }
+    },
+    {
+      "title": "Re：从零开始的异世界生活 第二季 前半",
+      "status": "watching",
+      "rating": 9.7,
+      "year": "2020",
+      "genres": [
+        "奇幻",
+        "小说改",
+        "穿越",
+        "冒险"
+      ],
+      "cover": "/assets/anime/covers/bili_33802.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss33802",
+      "description": "我一定会拯救你。 在打倒了魔女教大罪司教「怠惰」担当——培提其乌斯·罗曼尼康帝之后，菜月昴和爱蜜莉雅又得以重新开始。 克服了艰难的诀别，两人终于和解，然而这只是新一轮风波的序幕。 超乎想象的绝境危机，...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28229233",
+        "seasonId": "33802"
+      }
+    },
+    {
+      "title": "咒术回战",
+      "status": "watching",
+      "rating": 9.7,
+      "year": "2020",
+      "genres": [
+        "热血",
+        "奇幻",
+        "战斗",
+        "漫画改"
+      ],
+      "cover": "/assets/anime/covers/bili_34430.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss34430",
+      "description": "少年战斗着——「为寻求正确的死亡」 辛酸·后悔·耻辱 人类产生的负面情感，化为诅咒，潜入日常生活 诅咒是蔓延于世界的祸源，最糟糕的情况下，会让人类踏入死亡 并且，诅咒只能以诅咒祓除 拥有惊人身体...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28229899",
+        "seasonId": "34430"
+      }
+    },
+    {
+      "title": "天官赐福",
+      "status": "watching",
+      "rating": 8.9,
+      "year": "2020",
+      "genres": [],
+      "cover": "/assets/anime/covers/bili_28763.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss28763",
+      "description": "仙乐国太子谢怜接连被贬后第三次飞升成仙，却不慎破坏了神官们的金殿，无人供奉的他只能下凡除鬼来换取功德作为补偿。在凡间的历练中，谢怜结识了两位前来帮助他的小神官，并认识了一个神秘的红衣少年，四人一同解决...",
+      "studio": "中国大陆",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28223059",
+        "seasonId": "28763"
+      }
+    },
+    {
+      "title": "伍六七之最强发型师",
+      "status": "watching",
+      "rating": 9.8,
+      "year": "2019",
+      "genres": [],
+      "cover": "/assets/anime/covers/bili_28510.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss28510",
+      "description": "伍六七在帮助别人和寻找自我的过程中，认识了不同的人，并与不同角色之间发生了有趣的故事，最终用爱与包容化解了仇恨与偏见。...",
+      "studio": "中国大陆",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28222513",
+        "seasonId": "28510"
+      }
+    },
+    {
+      "title": "天使降临到我身边",
+      "status": "watching",
+      "rating": 9.8,
+      "year": "2019",
+      "genres": [
+        "日常",
+        "治愈",
+        "搞笑",
+        "萌系",
+        "漫画改"
+      ],
+      "cover": "/assets/anime/covers/bili_26291.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss26291",
+      "description": "怕生的御宅族女大学生宫子，遇到了天使般的小学生！？在看到妹妹带来的新朋友小花的瞬间，宫子就无法抑制住心跳！！她为了和小花成为朋友而奋斗，但……“想要和超绝可爱的她做朋友”系小品喜剧，开幕！...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "4316442",
+        "seasonId": "26291"
+      }
+    },
+    {
+      "title": "擅长捉弄的高木同学 第二季",
+      "status": "watching",
+      "rating": 9.9,
+      "year": "2019",
+      "genres": [
+        "日常",
+        "搞笑",
+        "校园",
+        "恋爱",
+        "漫画改"
+      ],
+      "cover": "/assets/anime/covers/bili_28006.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss28006",
+      "description": "“今天一定要捉弄高木同学，让她害羞！” 某所初中里，邻座女生高木同学总是捉弄男生西片。 西片为了反过来戏弄高木同学，每天都在奋斗着…… 高木同学和西片的全力“捉弄”青春之战就此开始。...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28221403",
+        "seasonId": "28006"
+      }
+    },
+    {
+      "title": "灵笼 第一季",
+      "status": "watching",
+      "rating": 9.6,
+      "year": "2019",
+      "genres": [
+        "原创",
+        "热血",
+        "奇幻",
+        "战斗",
+        "科幻"
+      ],
+      "cover": "/assets/anime/covers/bili_22088.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss22088",
+      "description": "不久的未来，人类的世界早已拥挤不堪，迈向星河、寻找新家园的行动迫在眉捷。正当一切有条不紊的推进之时，月相异动，脚下的大地爆发了长达数十年、剧烈的地质变化，人类在这场浩劫中所剩无几。当天地逐渐恢复平静，...",
+      "studio": "中国大陆",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "23432",
+        "seasonId": "22088"
+      }
+    },
+    {
+      "title": "鬼灭之刃",
+      "status": "watching",
+      "rating": 9.7,
+      "year": "2019",
+      "genres": [
+        "热血",
+        "奇幻",
+        "战斗",
+        "声控",
+        "漫画改",
+        "励志"
+      ],
+      "cover": "/assets/anime/covers/bili_26801.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss26801",
+      "description": "大正时期，日本。心地善良的卖炭少年·炭治郎，有一天他的家人被鬼杀死了。而唯一幸存下来的妹妹——祢豆子变成了鬼。被绝望的现实打垮的炭治郎，为了寻找让妹妹变回人类的方法，决心朝着“鬼杀队”的道路前进。 人...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "22718131",
+        "seasonId": "26801"
+      }
+    },
+    {
+      "title": "关于我转生变成史莱姆这档事",
+      "status": "watching",
+      "rating": 9.4,
+      "year": "2018",
+      "genres": [
+        "小说改",
+        "穿越",
+        "奇幻",
+        "战斗",
+        "魔法",
+        "冒险"
+      ],
+      "cover": "/assets/anime/covers/bili_25739.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss25739",
+      "description": "史莱姆生活，开始了。 上班族的三上悟在道路上被歹徒给刺杀身亡后，回过神来发现自己转生到了异世界。 不过，自己居然是“史莱姆”！ 他在得到利姆鲁这个名字后开始了自己的史莱姆人生，随着与各个种族相处交流的...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "139252",
+        "seasonId": "25739"
+      }
+    },
+    {
+      "title": "剧场版 中二病也要谈恋爱！ -Take On Me-",
+      "status": "watching",
+      "rating": 9.8,
+      "year": "2018",
+      "genres": [
+        "恋爱",
+        "小说改"
+      ],
+      "cover": "/assets/anime/covers/bili_25045.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss25045?theme=movie",
+      "description": "“十八岁。高中最后一年。明明如此，六花却……仍然是个中二病”。升入大学的考试近在眼前，高中三年级到来前的春假。 富㭴勇太和小鸟游六花的共同生活依然一成不变。但他们的上位契约似乎仍未缔结……这样的某一天...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "115632",
+        "seasonId": "25045"
+      }
+    },
+    {
+      "title": "异界少女召唤术",
+      "status": "watching",
+      "rating": 6.9,
+      "year": "2018",
+      "genres": [
+        "奇幻",
+        "战斗",
+        "小说改",
+        "魔法",
+        "神魔",
+        "穿越"
+      ],
+      "cover": "/assets/anime/covers/bili_24627.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss24627",
+      "description": "坂本拓真，MMORPG《十字幻想曲》中被其他玩家称为“魔王”，拥有压倒性的强悍力量。 有一天，他竟然以游戏中的身份被召唤至异世界，遇到了两个各自都坚称自己才是“召唤主”的少女。两名少女对拓真施展了驯服...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "102752",
+        "seasonId": "24627"
+      }
+    },
+    {
+      "title": "擅长捉弄的高木同学",
+      "status": "watching",
+      "rating": 9.8,
+      "year": "2018",
+      "genres": [
+        "日常",
+        "搞笑",
+        "校园",
+        "恋爱",
+        "漫画改"
+      ],
+      "cover": "/assets/anime/covers/bili_47388.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss47388",
+      "description": "害羞就输了的「捉弄」喜剧 「今天一定要捉弄高木同学，让她觉得丢脸！」在某间中学里，有个一直被坐在隔壁的女孩——高木同学捉弄的男孩西片。他每天都努力奋斗，要反过来捉弄高木同学，但……？ 高木同学和西...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "21214905",
+        "seasonId": "47388"
+      }
+    },
+    {
+      "title": "紫罗兰永恒花园",
+      "status": "watching",
+      "rating": 9.8,
+      "year": "2018",
+      "genres": [
+        "治愈",
+        "催泪",
+        "小说改",
+        "励志",
+        "职场",
+        "架空"
+      ],
+      "cover": "/assets/anime/covers/bili_21542.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss21542",
+      "description": "某个大陆的、某个时代。 大陆南北分割的战争结束了，世界走向了和平。 在战争中作为军人的薇尔莉特•伊芙加登，怀抱着对她来说无比重要之人留下的“话语”，离开军队来到了大港口城市。 踊跃的人群在排列着煤气灯...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "8892",
+        "seasonId": "21542"
+      }
+    },
+    {
+      "title": "小林家的龙女仆",
+      "status": "watching",
+      "rating": 9.7,
+      "year": "2017",
+      "genres": [
+        "日常",
+        "搞笑",
+        "萌系",
+        "漫画改"
+      ],
+      "cover": "/assets/anime/covers/bili_5800.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss5800",
+      "description": "在单身的辛苦OL小林身边突然出现的女仆装束的美少女托尔。 长着角和尾巴的她的身姿正是所谓的龙娘。 在醉酒的小林邀请下说要到家里去的托尔，鬼使神差地开始以小林家女仆的身份工作……！？ “女仆”+“龙”=...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "5800",
+        "seasonId": "5800"
+      }
+    },
+    {
+      "title": "属性咖啡厅",
+      "status": "watching",
+      "rating": 9.6,
+      "year": "2017",
+      "genres": [
+        "少女",
+        "日常",
+        "萌系",
+        "漫画改"
+      ],
+      "cover": "/assets/anime/covers/bili_6432.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss6432",
+      "description": "以一家咖啡厅为舞台，讲述着店员之间的交流，新人店员苺香来到了有着等各种性格特异员工的咖啡厅，在这充满特色的咖啡厅中，欢乐的打工生活由此展开！...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "6432",
+        "seasonId": "6432"
+      }
+    },
+    {
+      "title": "珈百璃的堕落",
+      "status": "watching",
+      "rating": 9.6,
+      "year": "2017",
+      "genres": [
+        "日常",
+        "漫画改",
+        "神魔"
+      ],
+      "cover": "/assets/anime/covers/bili_5793.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss5793",
+      "description": "天使学校的首席天使来到了地球！  ……但是，住惯了地球的她，开始过起整天逃学打网游的自甘堕落生活。 化身为怠惰的废柴天使，简称“废天使”的加百列，早就把让全部人类幸福的目标抛到九霄云外，并发誓要充分享...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "5793",
+        "seasonId": "5793"
+      }
+    },
+    {
+      "title": "NEW GAME!",
+      "status": "watching",
+      "rating": 9.7,
+      "year": "2016",
+      "genres": [
+        "日常",
+        "萌系"
+      ],
+      "cover": "/assets/anime/covers/bili_5027.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss5027",
+      "description": "高中毕业后，进入了曾制作自己自幼便入迷的游戏的制作公司“Eagle Jump”的青叶，在那里与担任这款游戏角色设计师的八神光相遇了。 开始在憧憬的人手下工作的青叶，虽然对于第一次的工作感到困惑，但在以...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "5027",
+        "seasonId": "5027"
+      }
+    },
+    {
+      "title": "灰与幻想的格林姆迦尔",
+      "status": "watching",
+      "rating": 9.8,
+      "year": "2016",
+      "genres": [
+        "奇幻",
+        "战斗",
+        "小说改",
+        "励志",
+        "穿越",
+        "冒险"
+      ],
+      "cover": "/assets/anime/covers/bili_3103.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss3103",
+      "description": "电视动画《灰与幻想的格林姆迦尔》改编自日本轻小说家十文字青原作白井锐利插画的同名轻小说。 我们为什么要这么做…？ 哈尔希洛回过神来，才发现自己身处在黑暗当中，他完全不知道自己人在何处，也不明白这个地方...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "106512",
+        "seasonId": "3103"
+      }
+    },
+    {
+      "title": "那年那兔那些事儿 第三季",
+      "status": "watching",
+      "rating": 9.6,
+      "year": "2016",
+      "genres": [
+        "漫画改",
+        "萌系",
+        "历史"
+      ],
+      "cover": "/assets/anime/covers/bili_5559.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss5559",
+      "description": "那年，兔子的种花家没有了大规模的威胁，和蓝星的小伙伴们的关系也在日渐和谐。但笑与泪的生活还在继续，之后还会发生什么有趣的事情呢？我也不知道啊！作者我压根就没想过这我兔居然能出到第三季！...",
+      "studio": "中国大陆",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "5559",
+        "seasonId": "5559"
+      }
+    },
+    {
+      "title": "NO GAME NO LIFE 游戏人生",
+      "status": "watching",
+      "rating": 9.8,
+      "year": "2014",
+      "genres": [
+        "奇幻",
+        "智斗",
+        "穿越",
+        "架空"
+      ],
+      "cover": "/assets/anime/covers/bili_184.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss184",
+      "description": "尼特族又闭门不出，但是在网络上甚至被当作都市传说口耳相传的天才玩家兄妹·空和白。将世界称为“垃圾游戏”的这两个人某一天被自称“神”的少年召唤到了异世界。那里是被神明禁止了战争，“一切交由游戏来决定”的...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "184",
+        "seasonId": "184"
+      }
+    },
+    {
+      "title": "中二病也要谈恋爱！恋",
+      "status": "watching",
+      "rating": 9.6,
+      "year": "2014",
+      "genres": [
+        "搞笑",
+        "恋爱"
+      ],
+      "cover": "/assets/anime/covers/bili_4349.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss4349",
+      "description": "由于各种原因导致失去住所的六花开始寻找新家，但过程并不顺利，最终来到了勇太的家里。 然而，勇太的家人却留下勇太一个人到雅加达去了。 现在开始的同栖生活！？这样想着心跳不已的两个人。 但此时樟叶为了迎考...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "4349",
+        "seasonId": "4349"
+      }
+    },
+    {
+      "title": "尸兄",
+      "status": "watching",
+      "rating": 9.2,
+      "year": "2013",
+      "genres": [],
+      "cover": "/assets/anime/covers/bili_662.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss662",
+      "description": "一天晚上，两个盗墓贼用货车盗走了一个棺材，打算把它卖给外国人。不料在半路上棺材从车厢滑进了H市的自来水厂，使得整个自来水厂的水都受到了污染，而喝了被污染的水的人都会变成“尸兄”。 主角白小飞是H市一个...",
+      "studio": "中国大陆",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "662",
+        "seasonId": "662"
+      }
+    },
+    {
+      "title": "中二病也要谈恋爱！",
+      "status": "watching",
+      "rating": 9.8,
+      "year": "2012",
+      "genres": [
+        "搞笑",
+        "校园",
+        "恋爱",
+        "小说改"
+      ],
+      "cover": "/assets/anime/covers/bili_4340.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss4340",
+      "description": "富㭴勇太于初中毕业的时候，决定同时为自己举办中二病毕业的仪式。打算顺利度过高中生活的他，在开学日以最后的中二语录完全封锁这段黑历史。可惜天意弄人，勇太遇上了现任中二病患者暨同班同学小鸟游六花，更被对方...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "4340",
+        "seasonId": "4340"
+      }
+    },
+    {
+      "title": "日常",
+      "status": "watching",
+      "rating": 9.9,
+      "year": "2011",
+      "genres": [
+        "漫画改",
+        "搞笑",
+        "日常",
+        "萌系"
+      ],
+      "cover": "/assets/anime/covers/bili_844.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss844",
+      "description": "祐子是一个爱妄想又心怀梦想的女高中生，她身边充满着机器人啊鹿之类的谜之事物。 以时定高中为中心，在这座时不时会天降鲑鱼甚至木偶小人的城市中，奇妙莫测又莫名有些超现实的“日常”即将开始。 与此同时，“博...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "844",
+        "seasonId": "844"
+      }
+    }
+  ]
+}
