@@ -47,6 +47,7 @@ export const compassData: CompassShelf[] = [
 				image: "https://cdn.dancf.com/fe-assets/20260604/22e5e923d7f010990285340f6cb79f18ddf551de700b489ca316fe0f392fcfd9.svg",
 			},
 		],
+	},
 	{
 		key: "ai-tools",
 		name: "AI 工具",
@@ -70,6 +71,5 @@ export const compassData: CompassShelf[] = [
 				icon: "material-symbols:robot-2-outline-rounded",
 			},
 		],
-	},
 	},
 ];
