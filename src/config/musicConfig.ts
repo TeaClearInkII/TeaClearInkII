@@ -68,7 +68,7 @@ export const musicConfig: MusicConfig = withUserConfig("music", {
 		api: "https://meting.mysqil.com/api?server=:server&type=:type&id=:id&r=:r",
 		// 进入视口时预取歌单元数据（仅元信息，不预取音频流）：
 		// "metadata"（取）| "none"（默认，不取；交互后才请求，卡片显示「尚未请求」占位）
-		preload: "none",
+		preload: "metadata",
 	},
 	defaultVolume: 0.7,
 	defaultMode: "sequence",
