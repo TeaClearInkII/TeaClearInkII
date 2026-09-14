@@ -72,7 +72,12 @@ export const siteConfig: SiteConfig = withUserConfig("site", {
 			enable: true,
 			title: "茶清墨刂",
 			subtitle: [
+				"欢迎来到茶茶的小茶亭",
 				"茶染清池，墨落千山",
+				"很多有趣的哦~",
+				"要不到处逛逛呢？",
+				"果茶要加冰！",
+				"继续探索一下吧~",
 				"茶茶正在试图进入各个领域",
 			],
 			typewriter: {
